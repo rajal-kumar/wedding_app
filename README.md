@@ -1,3 +1,15 @@
+# Wedding App - Thekumarsaregettinghitched
+
+Getting married at the end of the year and having two wedding celebrations.
+
+Decided to use some spare time to touch up on Js and React to create a customer wedding app.
+
+The desired features required at the moment:
+
+- Save the date
+- RSVP
+- Invite tracker
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
